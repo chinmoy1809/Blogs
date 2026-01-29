@@ -1,6 +1,6 @@
 # Blogs
 
----
+
 [Understanding HTML Tags and Elements] - [https://html-tag-and-element.hashnode.dev/understanding-html-tags-and-elements] 
 
 ---
